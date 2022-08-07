@@ -19,7 +19,7 @@ DEBUG = False
 
 SITE_ID = 1
 
-ALLOWED_HOSTS = ['127.0.0.1','Apna.com']
+ALLOWED_HOSTS = ['127.0.0.1','aapnakam.herokuapp.com']
 INSTALLED_APPS = [
     "django.contrib.admin",
     "django.contrib.auth",
